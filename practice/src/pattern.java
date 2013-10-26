@@ -26,6 +26,7 @@ public class pattern {
 		int a = s.nextInt();
 		int b = s.nextInt();
 		System.out.println(b);
+		System.out.println(a);
 		p.printPattern(a, b);
 	}
 }
